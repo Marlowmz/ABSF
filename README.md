@@ -1,1 +1,8 @@
 # ABSF
+
+
+port existing processing based code to webgl
+
+design menu system
+
+overhaul visual system to maybe use 3d voxels etc
